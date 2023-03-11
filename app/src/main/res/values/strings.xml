@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="choose_a_password">Choose a Password</string>
+    <string name="movie_db_app">Movie DB App</string>
+    <string name="find_your_movies">Find your movies</string>
+    <string name="categories">Categories</string>
+    <string name="top_rated">Top Rated</string>
+
+</resources>
